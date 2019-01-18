@@ -1,0 +1,5 @@
+sequence:
+-- analyzeSD
+-- (analyzeSDtotal) (if comparing WT and KO)
+-- analyzeRecordingSetResults [single experiment plots and SummaryMatrix produced]
+-- analyzeSummaryData [plot produced from SummaryData (Norm)]
